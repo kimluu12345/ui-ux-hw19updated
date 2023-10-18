@@ -1,0 +1,3 @@
+$("#Legal").on("click", function(){
+    $("#dropdown").slideToggle();
+});
